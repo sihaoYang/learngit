@@ -3,3 +3,4 @@ Git is free software
 GIT IS DIFFICULT
 create a new branch is quick
 create a new branch is quick and simple
+merge with --no-ff
